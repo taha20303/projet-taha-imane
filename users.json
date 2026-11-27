@@ -1,0 +1,6 @@
+{
+  "taha": {
+    "password_hash": "scrypt:32768:8:1$6su0ikRvBxbsQKLy$d6aa69517f612d3230c968755b5c9ec2a6eb8a5f100788980bedaafeb506fa607a8154eddf26c257068a4f527c5f5d85942aa5447083c83935dac1ba2fa1f541",
+    "role": "manager"
+  }
+}

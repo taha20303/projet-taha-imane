@@ -1,0 +1,9 @@
+ACCES SERVEUR PRODUCTION
+login: admin
+password: P@ssw0rd-Production-2026
+api_key: sk_live_51H8xExampleKey1234567890
+
+Carte bancaire entreprise : 4111 1111 1111 1111  CVV 123
+IBAN : FR76 3000 6000 0112 3456 7890 189
+CIN du directeur : AB123456
+Email : directeur@example.com  Tel : +212 6 12 34 56 78
